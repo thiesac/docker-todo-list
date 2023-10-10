@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Docker Todo List App
 
 
@@ -107,6 +107,6 @@ I would like to acknowledge [Trybe](https://www.betrybe.com/) for their support 
 ## Acknowledgment
 
 Special thanks to the Docker community for providing a powerful containerization platform.
-```
+
 
 You can copy and paste this Markdown code into a `README.md` file in your [docker-todo-list](https://github.com/thiesac/docker-todo-list) repository on GitHub. Please make any necessary adjustments based on your project's specific details and formatting preferences.
