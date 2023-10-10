@@ -105,8 +105,4 @@ Contributions to this project are welcome! If you have any bug fixes, feature ad
 I would like to acknowledge [Trybe](https://www.betrybe.com/) for their support and guidance during the development of this project.
 
 ## Acknowledgment
-
-Special thanks to the Docker community for providing a powerful containerization platform.
-
-
-You can copy and paste this Markdown code into a `README.md` file in your [docker-todo-list](https://github.com/thiesac/docker-todo-list) repository on GitHub. Please make any necessary adjustments based on your project's specific details and formatting preferences.
+I would like to acknowledge and express our gratitude to [Trybe](https://www.betrybe.com/) for their support and guidance throughout the development of this educational resource.
